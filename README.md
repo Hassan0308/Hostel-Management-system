@@ -5,6 +5,7 @@
 **Software requirements**
 
 •	Operating system: Windows, Mac, Linux.
+
 •	Database: SQL, XAMPP server.
 
 **Hardware requirements**
@@ -12,6 +13,9 @@
 ●	Processor: Pentium or greater
 
 ●	RAM: 512MB
+
 ●	Hard Disk: Depends on how much data is stored in DATABASE (min 1GB)
+
 ●	Keyboard
+
 ●	Monitor
