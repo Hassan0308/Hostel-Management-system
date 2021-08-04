@@ -8,6 +8,7 @@
 **Hardware requirements**
 
 ●	Processor: Pentium or greater
+
 ●	RAM: 512MB
 ●	Hard Disk: Depends on how much data is stored in DATABASE (min 1GB)
 ●	Keyboard
